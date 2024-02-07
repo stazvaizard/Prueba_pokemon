@@ -1,0 +1,67 @@
+ul.navegateBard {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  width: 100vh;
+  list-style: none;
+  align-items: center;
+  background-color: #a8b8bf;
+  border-radius: 4px;
+}
+
+.mainContainerCards {
+  display: grid;
+  grid-template-columns: 200px 200px 200px;
+  justify-items: center;
+}
+
+.mainContainer {
+  display: flex;
+  height: 100vh;
+  font-family: sans-serif;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background-color: #dfdfdf;
+}
+
+.pagination {
+  list-style: none;
+  height: 31.5px;
+  width: 31.5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2px;
+  cursor: pointer;
+}
+
+.active {
+  background-color: #4a4c52;
+}
+
+.page-item {
+  list-style: none;
+  padding: 2px 12px;
+  height: 31.5px;
+  width: 31.5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2px;
+}
+
+.cardPokemon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  flex-direction: column;
+  width: 150px;
+  height: 140px;
+  box-shadow: 10px 5px 5px #b3b1b1;
+}
+
+.MuiBackdrop-root.MuiModal-backdrop.css-i9fmh8-MuiBackdrop-root-MuiModal-backdrop {
+  background-color: #fff;
+}

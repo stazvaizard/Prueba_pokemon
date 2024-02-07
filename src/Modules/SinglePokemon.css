@@ -1,0 +1,51 @@
+.containerSinglePokemon {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  height: 80vh;
+  width: 50vw;
+  background-color: #b1afaf;
+  border-radius: 8px;
+}
+
+.fullContainerSinglePokemon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.btnClose {
+  display: flex;
+  justify-content: end;
+}
+
+.titleNumberCard {
+  display: flex;
+  flex-direction: row;
+  gap: 220px;
+  font-size: larger;
+}
+
+.typesTable {
+  border-collapse: ;
+  display: flex;
+  border: 1px solid #c5c5c5;
+  width: 100%;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.habiliTable {
+  border-collapse: ;
+  display: flex;
+  border: 1px solid #c5c5c5;
+  width: 100%;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.typesHabilities {
+  width: 99%;
+  background-color: #c98383;
+}

@@ -1,2 +1,16 @@
-# Prueba_pokemon
-El objetivo de esta prueba técnica es desarrollar una aplicación web en React que consuma la API de Pokémon para crear un listado de Pokémon con paginación y permita ver el detalle de un Pokémon seleccionado. La aplicación debe mostrar el nombre y la imagen de cada Pokémon en forma de tarjetas.
+# React + Vite
+
+# react-paginate
+
+# mui/material
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+Install
+
+npm install
